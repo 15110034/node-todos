@@ -1,0 +1,8 @@
+-Khởi tạo app 
+-cài đặt các module 
+-tạo app listen trên port 
+-sử dụng đối tượng moogose để tạo ra model 
+-tạo api controller nhờ vào model -vừa tạo ,đối tượng model có các phương thức   find ,findById ,create ,update,remove , dùng postMan để test mấy cái này 
+-  khai báo app angular để tương tác với view và server .tạo ra controller 
+- sử dụng các hàm trong thư viện tự tạo  ví dụ như get ,create ,update,delete . 
+- mấy function trên nó return lại một $http.get/post/put/delete chính là cái response . 
